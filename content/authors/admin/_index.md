@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:admin@iharvalovich.pl"  # For a direct email link, use "mailto:test@example.org"  '#contact'.
 #-icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+#- icon: google-scholar
+  # icon_pack: ai
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: chrome
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.cimco.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
