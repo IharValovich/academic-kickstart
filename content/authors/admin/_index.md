@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: PROAXIS Sp. z o.o.
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Kompleksowa integracja systemów klasy
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Computer Integrated Manufacturing
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
